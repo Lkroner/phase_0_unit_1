@@ -17,7 +17,7 @@
 <br><br>
 *3. A trick I learned was when working with a nav bar, in order to remove the browser default settings, you can set margins and padding to 0. 
 <br><br>
-*4. I'm 70% confident. I need to spend some extra time familiarizing myself with command line and git commands and some of the more complaex HTML/CSS. I can make things work but it's definitely not second nature.  
+*4. I'm 70% confident. I need to spend some extra time familiarizing myself with command line and git commands and some of the more complaex HTML/CSS. I can make things work but it's definitely not second nature. I don't have the time this week but I will do the "Optimize your learning section" next week to get deeper into some CSS! Looking forward to it. 
 <br><br>
 *5. While I was familiar with most of these HTML/CSS concepts(a few new ones!) it was good to go back over them in the exersize.  
 <br><br>
