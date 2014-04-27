@@ -3,7 +3,7 @@
 * * What did you learn about design and user experience? 
 * Do you like design and user experience? Was it fun working on your site, the plan, and/or the wireframe? (If you hated it, that's OK too)
 
-* What questions did you ask during this challnge? What resources did you find to help you answer them?  
+* What questions did you ask during this challenge? What resources did you find to help you answer them?  
 * What concepts are you having trouble with, or did you just figure something out? If so, what?  
 * Did you learn any new skills or tricks?
 * How confident are you with each of the Learning Competencies for this challenge? 
@@ -16,10 +16,11 @@
 <br>
 *2. I like UX design quite a bit and would love to get good at wireframing. Next week I will play around a bit more with wireframing programs you can use on your computer. I'm never going to make another website without first wireframing!
 <br>
-*3. 
+*3. I just used the DBC materials presented for this section. 
 <br>
-*4.<br>
-*5.<br>
-*6.<br>
-*7.<br>
-*8.<br>
+*4. I did not know about wireframing at all before this. Had never even heard the term and I have often wondered how to order and plan a website so this was a fun learning topic for me.
+<br>
+*5. I figured it out.<br>
+*6. I learned how to wireframe!<br>
+*7. I enjoyed reading about wreframing.<br>
+*8. The Wiki on design thinking was a bit tedious to read.<br>
