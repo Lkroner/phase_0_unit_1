@@ -1,1 +1,26 @@
-/* include your css here */
+#header {
+      width:100%;
+      padding: 5%;
+    }
+    
+    #container {
+        width: auto;
+        padding: 0;
+        margin: 0;
+        font-family: 'Open Sans', sans-serif;
+    }
+    
+    .column {
+        font-family: 'Open Sans', sans-serif;
+        width: 40%;
+        padding: 5%;
+    }
+    
+    .Cassie {
+        float: left;
+        
+    }
+    
+    .Lauren {
+        float: right;
+    }/* include your css here */
