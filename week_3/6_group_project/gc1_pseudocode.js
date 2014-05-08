@@ -15,12 +15,12 @@
 3. Create a function called median that takes a "values" parameter
    In the median function, Sort "values" and define sort order in sort function.
    					       Create variable "half", Collect sorted "values" length
-   					       						   Divide length in half.
-   					       						   Round this number down
+   					       	       		       Divide length in half.
+   					       		               Round this number down
    					       If "values" length contains remainder
    					        Write the value of the half index
-                           Else 
-                            Write the arithmetic mean of the two middle indexed numbers of values 
+                                              Else 
+                                               Write the arithmetic mean of the two middle indexed numbers of values 
   
 
 
