@@ -1,5 +1,10 @@
 [Week 3 Home](../)
 
+<<<<<<< HEAD:week_3/6_group_project/readme.md
+=======
+# U1.W3: Asynchronous Group Project
+
+>>>>>>> upstream/master:week_3/6_group_project/readme.md
 ## Learning Competencies
 - Write easily implementable pseudocode based on tests
 - Define local variables and functions in JavaScript
@@ -36,7 +41,11 @@ Because you aren't working with users, you can omit the "As a user" part of the 
 **Email your `gc1_user_stories.js` URL (from your forked phase_0_unit_1 repo) to the next person in your group.**
 
 ## Release 1: Person 2
+<<<<<<< HEAD:week_3/6_group_project/readme.md
 ### Translate user stories into pseudocode 
+=======
+### Translate user stories into [pseudocode](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/pseudocode.md) 
+>>>>>>> upstream/master:week_3/6_group_project/readme.md
 **Rename your [my_solution.js](./my_solution.js) file to `gc1_pseudocode.js`**
 
 Based on the user stories you receive from the first person, write pseudocode that can be easily implemented by the next person in your group.  Your psuedocode should be steps that specify at least 1 line of code.
@@ -55,7 +64,11 @@ When you are finished, send your solution to the next person in your group (agai
 ** Person 4 will also do this in a five and six person group.
 
 ## Release 3: Person 4 
+<<<<<<< HEAD:week_3/6_group_project/readme.md
 ### Refactor and translate
+=======
+### [Refactor](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/refactoring.md) and translate
+>>>>>>> upstream/master:week_3/6_group_project/readme.md
 **Rename your [my_solution.js](./my_solution.js) file to `gc1_refactored.js`**
 
 When you receive the `gc1_initial_solution.js` links, refactor it/them to make the code more clear. Then translate each into user stories. You will send your refactored code and your user stories to the first person in the group.
@@ -69,8 +82,13 @@ When the first person receives the refactored code from the last person, she/he 
 
 For everyone: When you receive the summary email, send your repo link to the other students in your accountability group. Look at the two people who followed you (go to the top if you're at the bottom) and comment on each. 
 
+<<<<<<< HEAD:week_3/6_group_project/readme.md
 ## Release 5: Reflect
 In the reflection section of your formerly named 'my_solution.js` file, reflect on your learning using the [reflection guidelines](../reflection_guidelines.md). Also answer the following:
+=======
+## Release 5: [Reflect](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md)
+In the reflection section of your formerly named 'my_solution.js` file, reflect on your learning using the [reflection guidelines](https://github.com/Devbootcamp/phase_0_handbook/blob/master/coding_references/reflection_guidelines.md). Also answer the following:
+>>>>>>> upstream/master:week_3/6_group_project/readme.md
 - What was this experience like? 
 - Was your group successful in passing the tests? 
 - What did you learn about writing user stories, pseudocoding, writing code, refactoring, etc.?

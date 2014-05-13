@@ -3,6 +3,7 @@ Define the following commands and describe how they work/what they do.
 
 
 #### add
+<<<<<<< HEAD
 Add will add changed files to the "staging" area, which tells git that these files are ready to be committed.
 
 #### branch
@@ -42,11 +43,50 @@ The rm command will remove the actual files from disk and will also stage the re
 
 #### status
 Status will show you what files are have changes pending , but are unstaged or are in staging area ready to be committed.
+=======
+<!-- Your defnition here -->
+
+#### branch
+<!-- Your defnition here -->
+
+#### checkout
+<!-- Your defnition here -->
+
+#### clone
+<!-- Your defnition here -->
+
+#### commit
+<!-- Your defnition here -->
+
+#### fetch
+<!-- Your defnition here -->
+
+#### log
+<!-- Your defnition here -->
+
+#### merge
+<!-- Your defnition here -->
+
+#### pull
+<!-- Your defnition here -->
+
+#### push
+<!-- Your defnition here -->
+
+#### reset
+<!-- Your defnition here -->
+
+#### rm
+<!-- Your defnition here -->
+
+#### status
+>>>>>>> upstream/master
 
 
 ## Release 4: Git Workflow
 
 - Push files to a remote repository
+<<<<<<< HEAD
 
 1. cd into the directory you want to commit changes from
 2. git status
@@ -89,3 +129,9 @@ I enjoyed most of it. Git in interesting to use.
 Didn't find anything terribly tedious.
 
 
+=======
+- Fetch changes
+- Commit locally
+
+## Release 5: Reflection
+>>>>>>> upstream/master
